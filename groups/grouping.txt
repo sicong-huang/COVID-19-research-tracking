@@ -1,0 +1,35 @@
+Topic 0: 231 articles
+word: ['2019-nCoV', 'SARS-CoV-2', 'virus', 'novel', 'outbreak']
+Representative article:
+Title: The global spread of 2019-nCoV: a molecular evolutionary analysis
+Authors: Benvenuto, Domenico, Giovanetti, Marta, Salemi, Marco, Prosperi, Mattia, De Flora, Cecilia, Junior Alcantara, Luiz Carlos, Angeletti, Silvia, Ciccozzi, Massimo
+DOI: 10.1080/20477724.2020.1725339
+
+Topic 1: 184 articles
+word: ['cases', 'number', 'epidemic', 'model', '2020']
+Representative article:
+Title: Effectiveness of airport screening at detecting travellers infected with 2019-nCoV
+Authors: Quilty, Billy, Clifford, Sam, Flasche, Stefan, Eggo, Rosalind M
+DOI: 10.1101/2020.01.31.20019265
+
+Topic 2: 224 articles
+word: ['cases', 'Wuhan', 'number', 'outbreak', 'epidemic']
+Representative article:
+Title: Intrinsic growth rules of patients infected, dead and cured with 2019 novel coronavirus in mainland China
+Authors: Han, Chuanliang, Liu, Yimeng, Yang, Saini
+DOI: 10.1101/2020.02.23.20024802
+
+Topic 3: 69 articles
+word: ['SARS-CoV-2', 'patients', 'cases', 'detection', 'infection']
+Representative article:
+Title: Optimizing diagnostic strategy for novel coronavirus pneumonia, a multi-center study in Eastern China
+Authors: Ai, Jing-Wen, Zhang, Hao-Cheng, Xu, Teng, Wu, Jing, Zhu, Mengqi, Yu, Yi-Qi, Zhang, Han-Yue, Shen, Zhongliang, Li, Yang, Zhou, Xian, Zang, Guo-Qing, Xu, Jie, Chen, Wen-Jing, Li, Yong-Jun, Xie, De-Sheng, Zhou, Ming-Zhe, Sun, Jing-Ying, Chen, Jia-Zhen, Zhang, Wen-Hong
+DOI: 10.1101/2020.02.13.20022673
+
+Topic 4: 143 articles
+word: ['patients', 'severe', 'cases', 'pneumonia', 'disease']
+Representative article:
+Title: Chest CT Findings in Coronavirus Disease-19 (COVID-19): Relationship to Duration of Infection
+Authors: Bernheim, Adam, Mei, Xueyan, Huang, Mingqian, Yang, Yang, Fayad, Zahi A., Zhang, Ning, Diao, Kaiyue, Lin, Bin, Zhu, Xiqi, Li, Kunwei, Li, Shaolin, Shan, Hong, Jacobi, Adam, Chung, Michael
+DOI: 10.1148/radiol.2020200463
+
