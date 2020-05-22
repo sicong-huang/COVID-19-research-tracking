@@ -1,0 +1,5 @@
+gensim==3.8.0
+spacy==2.2.4
+scispacy==0.2.4
+tqdm==4.44.1
+numpy==1.18.1

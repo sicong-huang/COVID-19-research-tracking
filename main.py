@@ -5,7 +5,6 @@ import os
 
 from tqdm import tqdm
 import numpy as np
-from scipy.stats import entropy
 import scispacy
 import spacy
 from gensim.models.ldamodel import LdaModel
@@ -44,6 +43,7 @@ def filter_valid_records(records):
     return valid_records
 
 def transform_corpus(articles):
+    ''' convert to BOW representation + preprocessing '''
     docs = []
     for article in articles:
         docs.append(article.tokens())
@@ -53,6 +53,7 @@ def transform_corpus(articles):
     return corpus, dictionary
 
 def train_lda(corpus, dictionary, num_topics=5, passes=10):
+    ''' returns an LdaModel according to parameters '''
     model = LdaModel(corpus, id2word=dictionary, num_topics=num_topics, passes=passes)
     return model
 
@@ -68,6 +69,7 @@ def hist(topic_assignments, num_topics):
     return histogram
 
 def to_ndarray(distribution, num_topics):
+    ''' Convert list of tuples into np.ndarray '''
     arr = np.zeros((len(distribution), num_topics))
     for i, distri in enumerate(distribution):
         for j, prob in distri:
@@ -80,11 +82,13 @@ def cos_similarity(distribution):
     norm_product = np.outer(norm, norm)
     return dot_product / norm_product
 
-def degree_centrality(kl):
-    s = np.sum(kl, axis=1)
+def degree_centrality(g):
+    ''' find the index of the node with highest degree centrality '''
+    s = np.sum(g, axis=1)
     return np.argmax(s)
 
 def find_central_articles(distribution, topic_assignments, num_topics):
+    ''' returns indices representative articles for each topoic '''
     central_docs = []
     for i in range(num_topics):
         distri = distribution[topic_assignments == i]
@@ -99,6 +103,9 @@ def main():
     root_name = args.xml_file.rsplit('.', 1)[0]
     spacy_model = 'en_core_sci_md'
     
+    if not os.path.exists('cache'):
+        os.mkdir('cache')
+
     articles = None
     pickle_file = 'cache/articles_{}.pkl'.format(root_name)
     if os.path.exists(pickle_file) and not args.force_read:

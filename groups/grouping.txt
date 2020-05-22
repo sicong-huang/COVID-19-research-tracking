@@ -1,35 +1,35 @@
-Topic 0: 231 articles
-word: ['2019-nCoV', 'SARS-CoV-2', 'virus', 'novel', 'outbreak']
+Topic 0: 164 articles
+word: ['patients', 'cases', 'severe', 'disease', 'pneumonia']
 Representative article:
-Title: The global spread of 2019-nCoV: a molecular evolutionary analysis
-Authors: Benvenuto, Domenico, Giovanetti, Marta, Salemi, Marco, Prosperi, Mattia, De Flora, Cecilia, Junior Alcantara, Luiz Carlos, Angeletti, Silvia, Ciccozzi, Massimo
-DOI: 10.1080/20477724.2020.1725339
+Title: Detectable serum SARS-CoV-2 viral load (RNAaemia) is closely associated with drastically elevated interleukin 6 (IL-6) level in critically ill COVID-19 patients
+Authors: Chen, Xiaohua, Zhao, Binghong, Qu, Yueming, Chen, Yurou, Xiong, Jie, Feng, Yong, Men, Dong, Huang, Qianchuan, Liu, Ying, Yang, Bo, Ding, Jinya, Li, Feng
+DOI: 10.1101/2020.02.29.20029520
 
-Topic 1: 184 articles
-word: ['cases', 'number', 'epidemic', 'model', '2020']
+Topic 1: 193 articles
+word: ['SARS-CoV-2', '2019-nCoV', 'virus', 'viral', 'ACE2']
 Representative article:
-Title: Effectiveness of airport screening at detecting travellers infected with 2019-nCoV
-Authors: Quilty, Billy, Clifford, Sam, Flasche, Stefan, Eggo, Rosalind M
-DOI: 10.1101/2020.01.31.20019265
+Title: Return of the Coronavirus: 2019-nCoV
+Authors: Gralinski, Lisa E, Menachery, Vineet D
+DOI: 10.3390/v12020135
 
-Topic 2: 224 articles
-word: ['cases', 'Wuhan', 'number', 'outbreak', 'epidemic']
+Topic 2: 90 articles
+word: ['2019-nCoV', 'cases', 'outbreak', 'transmission', 'incubation']
 Representative article:
-Title: Intrinsic growth rules of patients infected, dead and cured with 2019 novel coronavirus in mainland China
-Authors: Han, Chuanliang, Liu, Yimeng, Yang, Saini
-DOI: 10.1101/2020.02.23.20024802
+Title: A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version)
+Authors: Jin, Ying-Hui, Cai, Lin, Cheng, Zhen-Shun, Cheng, Hong, Deng, Tong, Fan, Yi-Pin, Fang, Cheng, Huang, Di, Huang, Lu-Qi, Huang, Qiao, Han, Yong, Hu, Bo, Hu, Fen, Li, Bing-Hui, Li, Yi-Rong, Liang, Ke, Lin, Li-Kai, Luo, Li-Sha, Ma, Jing, Ma, Lin-Lu, Peng, Zhi-Yong, Pan, Yun-Bao, Pan, Zhen-Yu, Ren, Xue-Qun, Sun, Hui-Min, Wang, Ying, Wang, Yun-Yun, Weng, Hong, Wei, Chao-Jie, Wu, Dong-Fang, Xia, Jian, Xiong, Yong, Xu, Hai-Bo, Yao, Xiao-Mei, Yuan, Yu-Feng, Ye, Tai-Sheng, Zhang, Xiao-Chun, Zhang, Ying-Wen, Zhang, Yin-Gao, Zhang, Hua-Min, Zhao, Yan, Zhao, Ming-Juan, Zi, Hao, Zeng, Xian-Tao, Wang, Yong-Yan, Wang, Xing-Huan, Evidence-Based Medicine Chapter of China International Exchange and Promotive Association for Medical and Health Care (CPAM), for the Zhongnan Hospital of Wuhan University Novel Coronavirus Management and Research Team
+DOI: 10.1186/s40779-020-0233-6
 
-Topic 3: 69 articles
-word: ['SARS-CoV-2', 'patients', 'cases', 'detection', 'infection']
+Topic 3: 291 articles
+word: ['cases', 'number', 'epidemic', 'Wuhan', 'model']
 Representative article:
-Title: Optimizing diagnostic strategy for novel coronavirus pneumonia, a multi-center study in Eastern China
-Authors: Ai, Jing-Wen, Zhang, Hao-Cheng, Xu, Teng, Wu, Jing, Zhu, Mengqi, Yu, Yi-Qi, Zhang, Han-Yue, Shen, Zhongliang, Li, Yang, Zhou, Xian, Zang, Guo-Qing, Xu, Jie, Chen, Wen-Jing, Li, Yong-Jun, Xie, De-Sheng, Zhou, Ming-Zhe, Sun, Jing-Ying, Chen, Jia-Zhen, Zhang, Wen-Hong
-DOI: 10.1101/2020.02.13.20022673
+Title: Short-term moderate-dose corticosteroid plus immunoglobulin effectively reverses COVID-19 patients who have failed low-dose therapy
+Authors: Zhou, Zhi-Guo, Xie, Shu-Min, Zhang, Jing, Zheng, Fang, Jiang, Di-Xuan, Li, Ke-Yu, Zuo, Qi, Yan, Yu-Sheng, Liu, Ji-Yang, Xie, Yuan-Lin, Peng, Hong, Zhang, Lei, Zhi-Guo Zhou, Or
+DOI: 
 
-Topic 4: 143 articles
-word: ['patients', 'severe', 'cases', 'pneumonia', 'disease']
+Topic 4: 113 articles
+word: ['cases', 'National', 'Research', 'supported', 'number']
 Representative article:
-Title: Chest CT Findings in Coronavirus Disease-19 (COVID-19): Relationship to Duration of Infection
-Authors: Bernheim, Adam, Mei, Xueyan, Huang, Mingqian, Yang, Yang, Fayad, Zahi A., Zhang, Ning, Diao, Kaiyue, Lin, Bin, Zhu, Xiqi, Li, Kunwei, Li, Shaolin, Shan, Hong, Jacobi, Adam, Chung, Michael
-DOI: 10.1148/radiol.2020200463
+Title: Public Exposure to Live Animals, Behavioural Change, and Support in Containment Measures in response to COVID-19 Outbreak: a population-based cross sectional survey in China
+Authors: Hou, Zhiyuan, Lin, Leesa, Lu, Liang, Du, Fanxing, Qian, Mengcen, Liang, Yuxia, Zhang, Juanjuan, Yu, Hongjie
+DOI: 10.1101/2020.02.21.20026146
 

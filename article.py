@@ -11,6 +11,7 @@ class Article:
         self.doi = doi.text if doi != None else ''
 
     def tokens(self, lower=False, no_punct=True, no_stop=True):
+        ''' return abstract as tokens '''
         token_list = []
         for token in self.parse:
             if token.is_punct and no_punct:  # skip punctuation when needed
